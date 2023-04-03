@@ -1,0 +1,126 @@
+
+
+
+
+
+
+
+/* .CementConcreteFeet-Top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    
+    .CementConcreteFeet-Left {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
+    
+    .Grade-Container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+    }
+    
+    .Grade-Container h3 {
+    margin-bottom: 10px;
+    }
+    
+    .Total-Ratio {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    }
+    
+    .Cement-Ratio, .Sand-Ratio, .Aggregate-Ratio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
+    
+    .Cement-Ratio span, .Sand-Ratio span, .Aggregate-Ratio span {
+    display: flex;
+    align-items: center;
+    }
+    
+    .Cement-Ratio input, .Sand-Ratio input, .Aggregate-Ratio input {
+    padding: 5px;
+    margin-left: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    }
+    
+    .Length-Container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+    }
+    
+    .Length-Container h3 {
+    margin-bottom: 10px;
+    }
+    
+    .Length-Input {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    }
+    
+    .Meter-Input, .CM-Input {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
+    
+    .Meter-Input span, .CM-Input span {
+    display: flex;
+    align-items: center;
+    }
+    
+    .Meter-Input input, .CM-Input input {
+    padding: 5px;
+    margin-left: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    }
+    
+    .Breadth-Container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
+    
+    .Breadth-Container h3 {
+    margin-bottom: 10px;
+    }
+    
+    .Breadth-Input {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    }
+    
+    .Meter-Input-B, .CM-Input-B {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
+    
+    .Meter-Input-B span, .CM-Input-B span {
+    display: flex;
+    align-items: center;
+    }
+    
+    /* .Meter-Input-B input, .CM-Input-B input {
+    padding: 5px;
+    margin-left
+    } */ 
